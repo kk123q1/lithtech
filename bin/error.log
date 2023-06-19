@@ -1,0 +1,34 @@
+Using Direct3D Device HAL
+Listening on driver: local
+Connecting locally
+Loading world: worlds/demoroom
+Loaded world: worlds/demoroom in 0.00 seconds
+DoRunWorld completed in 0.00 seconds
+Number of ClientFX: 12
+0. FX Name: DemoEffect
+1. FX Name: DemoEffect_2
+2. FX Name: DemoEffect_3
+3. FX Name: DemoEffect_4
+4. FX Name: DemoEffect_5
+5. FX Name: DemoEffect_6
+6. FX Name: Fire1
+7. FX Name: UB_Spark1_Fixed
+8. FX Name: ExplosiveCharge
+9. FX Name: Sleeping_3rd
+10. FX Name: Bulb_Destroy
+11. FX Name: Flakes
+Created font <fonts/SQR721B.TTF> using a 512X128 texture.
+Font String Created!
+New client, id 0, for a total of 1.
+Got ID packet (0)
+SpecialEffectNotify(026163F8,03AE23A4)
+SpecialEffectNotify(02616268,03AE23A4)
+SERVER Fx: DemoEffect
+OnObjectRemove(02616268)
+SpecialEffectNotify(02615DB8,03AE23A4)
+SERVER Fx: DemoEffect_2
+OnObjectRemove(02615DB8)
+SpecialEffectNotify(02615C28,03AE23A4)
+Disconnected from server
+Removing client, id 0, leaving 0.
+World ended
